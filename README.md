@@ -22,6 +22,8 @@ This project implements a computer vision system for classifying skin lesions in
 - **Multi-format Export**: TorchScript, ONNX, and PyTorch formats
 
 ## 📊 Dataset
+The dataset is available here:
+https://drive.google.com/drive/folders/1qyNY30YjTspWv2nZyNOss7RVceHcvpTE
 
 ### Classes (9 Categories)
 1. Actinic Keratosis
